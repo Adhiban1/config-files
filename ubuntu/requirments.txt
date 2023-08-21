@@ -1,0 +1,7 @@
+Flask
+jupyter
+pandas
+rich
+scikit-learn
+scipy
+tqdm

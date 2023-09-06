@@ -1,7 +1,10 @@
 Flask
 jupyter
+numpy
 pandas
 rich
 scikit-learn
 scipy
 tqdm
+django
+opencv-python
